@@ -1,0 +1,47 @@
+Conversion Factors,Conversion Factors,,,,,,
+Category,Category,Multiply,Multiply,By,By,To Obtain,To Obtain
+Acceleration,ftJsec2,ftJsec2,0.3048,0.3048,m/sec2,m/sec2,
+in/sec2,in/sec2,0.0254,0.0254,m/sec2,m/sec2,,m/sec2
+m/sec2,3.2808,3.2808,ft/sec2,ft/sec2,,m/sec2,m/sec2
+39.3701,39.3701,in/sec2,in/sec2,Angle,degrees,degrees,6.0000
+6.0000,minutes,minutes,,degrees,degrees,1.745328 x 10 to 2,1.745328 x 10 to 2
+radians,radians,,degrees,degrees,2.777778 x 10 to 3,2.777778 x 10 to 3,revolutions
+revolutions,,degrees,degrees,3600.00,3600.00,seconds,seconds
+,minutes,minutes,0.1667,0.1667,degrees,degrees,
+radians,radians,57.2958,57.2958,degrees,degrees,,revolutions
+revolutions,360,360,degrees,degrees,,seconds,seconds
+2.77778 x 10 to 4,2.77778 x 10 to 4,degrees,degrees,Area,ft2,ft2,0.0929
+0.0929,m2,m2,,In2,In2,6.4516 x 10 to 4,6.4516 x 10 to 4
+m2,m2,,yard2,yard2,0.8361,0.8361,"2
+m"
+"2
+m",,mile2,mile2,2.590 x 106,2.590 x 106,m2,m2
+,acres,acres,4.047 x 1 03,4.047 x 1 03,m2,m2,
+m2,m2,10.7643,10.7643,ft2,ft2,,m2
+m2,1550.0,1550.0,,,,m2,m2
+1.1960,1.1960,yard2,yard2,,m2,m2,3.861 ox 10 to 7
+3.861 ox 10 to 7,mile2,mile2,,m2,m2,2.471 x 10 to  to 4,2.471 x 10 to  to 4
+acres,acres,,acres,acres,0.4047,0.4047,hectares
+hectares,,acres,acres,4.356 x 1 04,4.356 x 1 04,ft2,ft2
+,acres,acres,4.047 x 103,4.047 x 103,m2,m2,
+acres,acres,1.562 x 10 to 3,1.562 x 10 to 3,mile2,mile2,Density,gram/cm3
+gram/cm3,1000,1000,kg/m3,kg/m3,,Ibm/ft3,Ibm/ft3
+16.0185,16.0185,kg/m3,kg/m3,,Ibm/gallon (U.S. liquid),Ibm/gallon (U.S. liquid),119.826
+119.826,kg/m3,kg/m3,,slug/ft3,slug/ft3,515.379,515.379
+kg/m3,kg/m3,,kg/m3,kg/m3,0.001,0.001,gram/cm3
+gram/cm3,,kg/m3,kg/m3,0.0624,0.0624,lbm/ft3,lbm/ft3
+,kg/m3,kg/m3,8.3454 x 10 to 3,8.3454 x 10 to 3,Ibm/gallon (U.S. liquid),Ibm/gallon (U.S. liquid),
+kg/m3,kg/m3,1.9403 x,1.9403 x,slug/ft3,slug/ft3,Energy/Work,Btu
+Btu,1055.06,1055.06,joule,joule,,erg,erg
+1 .ooo x 10 to 7,1 .ooo x 10 to 7,joule,joule,,ft to lb,ft to lb,1.3558
+1.3558,joule,joule,,kilowatt to hour,kilowatt to hour,3.600 x 106,3.600 x 106
+joule,joule,,calorie,calorie,4.1859,4.1859,joule
+joule,,newton to meter,newton to meter,1 .ooo,1 .ooo,joule,joule
+,watt to second,watt to second,1 .ooo,1 .ooo,joule,joule,
+joule,joule,9.4781 x 10 to 4,9.4781 x 10 to 4,Btu,Btu,,joule
+joule,1.000 x 107,1.000 x 107,erg,erg,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,

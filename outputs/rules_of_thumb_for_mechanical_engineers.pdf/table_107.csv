@@ -1,0 +1,7 @@
+"The Brayton cycle (Figure 7) uses an air to fuel mixture to keep the combustion temperature as close to the metallurgical limits as possible. A major portion of the work output from the turbine is used to dlive the compressor. The remainda may be either shaft output (perhaps to drive a pry peller, as in a turboprop, or drive a fan, as in a turbofan) or nozzle expansion to generate thrust (as in a turbojet engine). The four processes involved are:
+1 to 2 Adiabatic compression (in compressor)
+2 to 3 Heat addition at constant pressure (in combustor)","The heat flow into the system and the turbine and com pressor work output terms are:
+
+	% 03 ¯ T4) = h3 — m,
+
+The thermal efficiency of the cycle is:"

@@ -1,0 +1,5 @@
+Seal ID (In),Shaft Speed (rpm),Sealing Pressure (psig)
+,Up to 1800,175
+,1801 to 3600,
+over 2,Up to 1800,
+over 2,1801 to 3600,

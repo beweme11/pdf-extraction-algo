@@ -1,0 +1,9 @@
+1. Tensile,10. Thermal
+2. Compressive,11. Tangential
+3. Shear,12. Load induced
+4. Bending,13. Strain induced
+5. Bearing,14. Circumferential
+6. Anal,15. Longitudinal
+7. Discontinuity,16. Radial
+"Membrane
+Principal",17. Normal

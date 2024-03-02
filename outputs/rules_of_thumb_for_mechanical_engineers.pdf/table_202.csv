@@ -1,0 +1,9 @@
+"Very rough efficiencies to use for initial planning below 500 horsepower at 3,500 rpm are
+	Horsepower	Efficiency, %
+	1 to 10	15
+	10 to 50	20
+	50 to 300	25
+	300 to 350	30
+	350 to 500	40
+
+Gas Turbines: Fuel Rates"

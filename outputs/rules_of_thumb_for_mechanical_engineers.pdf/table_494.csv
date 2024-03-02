@@ -1,0 +1,34 @@
+End of Year,"Simple 
+Interest
+Earned","Interest
+Cumulative
+Interest Earned",Investment Balance
+"1
+2
+3","$0.00
+$5,000.00 x .12 = $600.00
+$5,000.00 x .12  to  $600.00
+$5,000.00 x .12 = $600.00","$0.00
+$600.00
+$1 ,200.oo
+$1 ,800.oo","$5,000.00
+$5,600.00
+$6,200.00
+$6,800.00"
+End of Year,"Compound Interest (Mnual Compounding)
+	Interest	Cumulative
+	Earned	Interest Earned","Compound Interest (Mnual Compounding)
+	Interest	Cumulative
+	Earned	Interest Earned",Investment Balance
+"1
+2
+3","$0.00	$0.00
+$5,000.00 x .12 = $600.00	$600.00
+$5,600.00 x .12 = $672.00	$1 ,272.oo
+$6,272.00 x .12 = $752.74	$2,024.64","$0.00	$0.00
+$5,000.00 x .12 = $600.00	$600.00
+$5,600.00 x .12 = $672.00	$1 ,272.oo
+$6,272.00 x .12 = $752.74	$2,024.64","$5,000.00
+$5,600.00
+$6,272.00
+$7,024.64"

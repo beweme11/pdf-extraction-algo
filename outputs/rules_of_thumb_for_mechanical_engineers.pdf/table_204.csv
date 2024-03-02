@@ -1,0 +1,8 @@
+"AH = Actual available energy, BtuJlb",
+"Cp = Heat capacity (constant pressure), Btu/lb OF",The proposed expander may cool the working fluid
+"Tl = Inlet temperature, OR
+				Inlet, outlet pressures, psia",below the dew point. Be sure to check for this.
+"K = cp/C
+To get lb/hr to hp divide as follows:","Source
+Branan, C. R. , The Process Engineer's Pocket Handbook,"
+2545,"Vol. 1. Houston: Gulf Publishing Co., 1976."

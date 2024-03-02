@@ -1,0 +1,4 @@
+An overall heat transfer coeffcient may be used to account for the combined effects of convection and conduction. Consider the problem shown in Figure 5. Convecüon occurs between fre gas (TD and the left side of the wall 02). Heat is then conducted to the right side of the wall (T3). Overall heat transfer may be calculated by:,"Tl  to T3
+1 /(hA) + thickness /(kA)
+The overall heat fransfer coefficient is:
+1"

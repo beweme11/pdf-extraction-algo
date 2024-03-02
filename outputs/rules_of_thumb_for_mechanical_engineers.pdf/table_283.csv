@@ -1,0 +1,15 @@
+"Liquid Pipe Lines—ANSI/ASME 831.4
+The internal design pressure is determined by using the following formula:
+P = (2St/D) x E x F
+where P = Internal design pressure, lb/in. 2 gauge
+		 Specified minimum yield strength, lb/in. 2 (see
+Table 5) t — Nominal wall thickness, in.
+— Nominal outside diameter of the pipe, in.
+= Weld joint factor (see Table 6)
+= Design factor of 0.72","Note: Refer to p. 195.106 of Part 195 Federal Pipeline Safety Regulations for design factors to be used on offshore risers and platform piping and cold worked pipe.
+A typical calculation of the internal design pressure is as follows:
+Pipe: 26"" OD x 0.3125"" wt API 5LX X52 ERW
+Weld joint factor E = 1.0 (see Table 6)
+Design factor F — 0.72
+P  to  (2 x 52,000 x 0.3125/26) x 1 x 0.72
+P = 900 lb/in. 2 gauge"

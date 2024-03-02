@@ -1,0 +1,39 @@
+Losses In Pipe Fittings and Valves,,,
+"In addition to losses due to friction in a piping system, there are also losses associated with flow through valves and fittings. These are called minor losses, but must be accounted for if the system has a lot of such fittings. These are freated as equivalent frictional losses. The minor loss may be freated either as a pressure drop Ap = —KpV2/2 or as a head loss Ah = —KV2/(2g). The value of the loss coefficient K is obtained through experimental data. For valves and fittings, manufacturers provide this value. It may also be calculated from the equivalent length concept: K = fLJD, where Le is the equivalent pipe length that has the same frictional loss. Table 3 gives these values for some common fittings,","Table 3
+K Values for Common Fittings","Table 3
+K Values for Common Fittings",
+"In addition to losses due to friction in a piping system, there are also losses associated with flow through valves and fittings. These are called minor losses, but must be accounted for if the system has a lot of such fittings. These are freated as equivalent frictional losses. The minor loss may be freated either as a pressure drop Ap = —KpV2/2 or as a head loss Ah = —KV2/(2g). The value of the loss coefficient K is obtained through experimental data. For valves and fittings, manufacturers provide this value. It may also be calculated from the equivalent length concept: K = fLJD, where Le is the equivalent pipe length that has the same frictional loss. Table 3 gives these values for some common fittings,",Type of Fiting,,
+"In addition to losses due to friction in a piping system, there are also losses associated with flow through valves and fittings. These are called minor losses, but must be accounted for if the system has a lot of such fittings. These are freated as equivalent frictional losses. The minor loss may be freated either as a pressure drop Ap = —KpV2/2 or as a head loss Ah = —KV2/(2g). The value of the loss coefficient K is obtained through experimental data. For valves and fittings, manufacturers provide this value. It may also be calculated from the equivalent length concept: K = fLJD, where Le is the equivalent pipe length that has the same frictional loss. Table 3 gives these values for some common fittings,","45 to degree elbow
+90 to degæe bend
+Diaphragm valve, open
+Diaphragm valve, half open
+Diaphragm valve, % open
+Gate valve, open
+Gate valve, half open
+Globe valve, wide open
+Globe valve, half open
+Tee junction
+Union and coupling
+Water meter","0.35
+0.75
+2.30
+4.30
+21.00
+0.17
+4.50
+6.40
+9.50
+1.00
+0.04
+7.00","17
+35
+115
+215
+1050
+9
+225
+320
+475
+50
+2
+350"

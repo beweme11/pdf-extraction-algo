@@ -1,0 +1,32 @@
+"Flow
+Meter",GAS,,,LIQUIDS,,,"Approx. max.
+temperature
+OF","Approx. max. pnssure
+(psig)","Accuracy uncalibrated including
+&ansmitter",Reynolds number,"Ape size, In.","Requlæd upstream pipe, diem.",Pressun,Range,Relative cost
+"Flow
+Meter",clean dirty,clean,dirw,vlscoug,corosive,slurry,"Approx. max.
+temperature
+OF","Approx. max. pnssure
+(psig)","Accuracy uncalibrated including
+&ansmitter",Reynolds number,"Ape size, In.","Requlæd upstream pipe, diem.",Pressun,Range,Relative cost
+"Orifice, square to edged",,,x,,x,,"to 1 ,OOO
+(transmitter to
+250)",to 6000,,"RD > 1,000",> 1.5,10 to 30,medium,,low
+Target,,,,,x,x,,,,RD > 100,> .5 to .4,10 to 00,medium,4:1,medium
+Venturi,x,,x,x,x,x,,,*1 to 2% URV,"RD > 75,000",,5 to 20,low,4:1,medium
+"Flow noule
+Pitot tube",x,,x,x,x x,,,,,"RD > 10,000 no limit",,"10 to 30
+20 to 30",medium very low,4:1,medium low
+Elbow,x,,x,,x,x,,,,RD > 10.000,,30,very low,,low
+Electromagnetic,,,,,,,360,4500,*0.5% of rate,no limit,.1 to 72,5,none,40:1,hlgh
+Mass flow meter (codolis),x,,,,x,x,< 570,<2000,*0.4% of rate,no limit,,none,low,10:1,high
+displacement,,,,,x,,gas: 250 liquid: 600,'1400,gas: % URV liquid: *0.5% of rate,"'8,000 cSt",,none,high,10:1,medium
+Turbine,,,,,x,,500,'3000,gas: *0.5% of rate liquid: % or rate,'2 to 15 cSt,.25 to 24,5 to 10,high,20:1,high
+"Ultrasonic
+(time of flight)",,,,x,,,500,pipe rating,"URV to
+*5% of rate",no limit,,5 to 30,none,20:1,high
+"Ultrasonic
+(Doppler)",,,,x,,,250,pipe rating,of URV,no limit,,,none,10:1,hlgh
+Variable area,,,,,x,,glass: '400 metal: '1000,glass: 350 metal: 720,*0.5% of rate to % URV,to highly viscous fluid,,none,medium,10:1,low
+Vortex,x,,x,,x,,'750,4500,of rate,"> 10,000",.5 to 16,10 to 20,medium,10:1,

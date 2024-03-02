@@ -1,0 +1,9 @@
+Bridge/Strain Arrangement,Description,"Output vo/V (mVN)
+at Gage Factor. F, when
+E expressea as m.crostrain"
+,Single active gage in uniaxial tension or compression.,"Vo	Fex
+V  to  4 + 2FC x 10 to 6"
+V  to e,Two active gages with equal and opposite strains — typical of bending to beam arrangement.,
+ to ve,"Four active gages in uniaxial stress field —two aligned with maximum principal strain, two ""Poisson"" gages (column).", to 3
+,Four active gages with pairs subjected to equal and opposite strains (beam in bending or shaft in torsion).,"Vo	 to 3
+	— = 	10"

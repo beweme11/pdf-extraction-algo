@@ -1,0 +1,10 @@
+,,,,co,,,
+Ceramic,D,x,x,D,D,x,ABCD
+Stellite,x,D,D,x,x,D,ACDE
+Tungsten Carbide (Nickel Bound),x,D,BCD,ABD,ABCD,,BCDE
+"Silicon Carblde
+(Reaction Bonded)",D,x,,ABD,ABD,x,ABDE
+"Silicon Carbide
+(Alpha Sintered)",D,x,BCD,ABD,ABCD,x,ABCD
+Bronze,x,,,x,x,x,x
+Carbon,ABCD,ACDE,BCD,ABDE,ABCD,x,ABCD

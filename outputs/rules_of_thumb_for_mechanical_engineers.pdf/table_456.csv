@@ -1,0 +1,5 @@
+Material Scatter,
+"Since designers want to ensure that only a very small fraction of their components fail, material scatter must be taken into account. This is generally done by specifying that —30 material should be used. Only one out of about 800 specimens should have fatigue properties below this level. Three rules of thumb are commonly used to account for material scatter and estimate minimum material properties:","The simplest is to divide the calculated life by a factor of 3.
+For cast materials, use 70% of the calculated allowable stress.
+For forged materials, use 85% of the calculated alIowable stress."
+Estimating Fatigue Properties,

@@ -1,0 +1,10 @@
+"Following are the pump design parameters in detail:
+Flow Capacity: The quantity of fluid discharged in unit time. It can be expressed in one of the following popular units: cfs, gpm, bph, or bpd.
+gpm = 449 x cfs = 0.7 x bph	(4)
+Head: This may also be called the specific energy, i.e., energy supplied to the fluid per unit weight. This quantity may be obtained through Bernoulli's equation. The head is the height to which a unit weight of the fluid may be raised by the energy supplied by the pump.
+H = 2.31 x	(5)","The velocity head is defined as the pressure equivalent of the dynamic energy required to produce the fluid velocity.
+Power: Energy consumed by the pump per unit üme for supplying liquid energy in the form of pressure.
+	bhp = Q x H x 	x e) = Q x 	x e)	(6)
+Efficiency: The ratio of useful hydraulic work done to the actual work input. It consists of the product of three components: the volumeüic efficiency, the hydraulic efficiency, and the mechanical efficiency.
+			(7)
+The overall efficiency varies from 50% for small pumps to 90% for large ones."

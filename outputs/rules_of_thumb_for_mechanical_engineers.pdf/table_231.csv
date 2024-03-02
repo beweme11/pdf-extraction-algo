@@ -1,0 +1,14 @@
+ThN to hardening Steels,Case to hardening Steels,Temperature Limit
+"TBS to 9
+STROLOY 503 to A 52100","4118
+5120
+8620
+4620
+4720
+4320",3000F
+"52100 TYPE 1 52100 TYPE 2
+440C","4820
+9310
+3310",3500F
+"M50
+T to 1 (18 to 4 to 1)",M50NiL,5500F

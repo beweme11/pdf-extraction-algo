@@ -1,0 +1,14 @@
+Motors: Useful Equations,
+"The following equations are useful in determining the current, voltage, horsepower, torque, and power factor for AC motors:
+Full Load 1 =  E (eff.) PF
+(three phase)
+= (eff.) PF]
+(single phase) kVA input =IE  (three phase) = IE/I,OOO (single phase) kW input =kVA input (PF) hp output = kW input (eff.)/0.746 = Torque (rpm)/5,250
+Full Load Torque = hp (5,250 lb. to ft.)/rpm
+Power Factor = kW input/kVA input","where
+E = Volts (line to to to line)
+I = Current (amps)
+PF = Power factor (per unit = percent PF/IOO) eff = Efficiency (per unit = percent eff./100) hp = Horsepower kW = Kilowatts kVA Kilovoltamperes
+Source
+Evans, F. L., Equipment Design Handbook for Refineries and Chemical Plants, Vol. 1, 2nd Ed. Houston: Gulf Publishing co., 1979."
+Motors: Relative Costs,

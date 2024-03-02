@@ -1,0 +1,16 @@
+Operations,Allowances
+"Turn, face, cut to off bore,",tm′	= tm + 5 4.	dm > 2
+"groove, thread",tm′	= tm + (1 35.	dm2 )	dm ≤ 2
+Drill (twist) (approach),tm′	= tm (1 + 0.5dm/ lw )
+Drill (twist) (start),tm′	= tm + (88. /5 υf ))dm1 67.
+"Helical, side, saw, and key slot milling",l′w = lw + 2(ae (dt − ac )0.5 + 0 066.	+ 0 011.	dt )
+Face and end milling,l′w = lw + dt + 0.066 + 0.011dt
+Surface grinding,lw′	= lw + dt/ 4
+Cyl. and int. grinding,l′w = lw + wt
+All grinding operations,"a′r = ar + 0.004	ar ≤ 0 01.
+a′r = ar + 0 29.	(ar − 0 01.	)	aarr ≤>00 01.024.
+
+a′r = ar + 0.008	ar > 0.024"
+Spline broaching,lt = −5 + 15dm + 8lw
+Internal keyway broaching,lt = 20 + 40wk + 85dk
+Hole broaching,lt = 6 + 6dm + 6lw

@@ -1,0 +1,14 @@
+Types of Systeß,Types of Systeß,,
+"Matter enclosed by a well to defined boundary is called a thermodynamic system. Everything outside is called the envimnment. The volume of the enclosed region is called the control volume, and its surface is the contml surface. I to mere is no mass exchange across the boundary, it is called a closed","Matter enclosed by a well to defined boundary is called a thermodynamic system. Everything outside is called the envimnment. The volume of the enclosed region is called the control volume, and its surface is the contml surface. I to mere is no mass exchange across the boundary, it is called a closed","system as opposed to an open system. The most important system is a ""steady flow open system,"" where the rate of mass exchange at the entry and exit are the same. Pumps, turbines, and boilers fall into this category.","system as opposed to an open system. The most important system is a ""steady flow open system,"" where the rate of mass exchange at the entry and exit are the same. Pumps, turbines, and boilers fall into this category."
+Types of Processes,Types of Processes,,
+"A process is defined in terms of specific changes to be accomplished. Two types of energy transfers may take place across a system boundary: thermal energy transfer (heat) and mechanical energy (work). Any process must have a well to defined objective for energy transfer. Below are definitions of  processes and the relationships between variables in the processes. The equations are in a per lbm basis, but can be converted to a 1b — mol basis by substituting V for v, H for h, and R* for R:","Isothemal: a constant temperature process (T2 = TD
+P2 = Pi(V l/V2)
+= VI(Pl/P2)
+Q = W = T (h  to  In (V2/Vl) W = Q T (h  to  SD = RT In (V2/Vl)
+
+	= + (Q/T) = R In (V2/Vl) = R In (PI/pD h2 = hi","Isothemal: a constant temperature process (T2 = TD
+P2 = Pi(V l/V2)
+= VI(Pl/P2)
+Q = W = T (h  to  In (V2/Vl) W = Q T (h  to  SD = RT In (V2/Vl)
+
+	= + (Q/T) = R In (V2/Vl) = R In (PI/pD h2 = hi",
